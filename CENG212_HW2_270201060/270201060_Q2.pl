@@ -1,0 +1,9 @@
+?- facultyMember('damlaOguz').
+?- is_loved_lecturer('burakGalipAslan').
+?- not_working('fevziBelli').
+?- working('damlaOguz').
+?- first_term_lecturer('nesliErdogmus').
+?- second_term_lecturer('cuneytFehmi').
+?- third_term_lecturer('selmaTekir').
+?- fourth_term_lecturer('damlaOguz').
+?- can_take_prerequisite_lesson.
